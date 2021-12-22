@@ -1,17 +1,17 @@
-# Calculadora IMC
+# Landing page
 
 
-<img src="./Imc-image.PNG" alt="imc-calculate">
+<img src="./ballebot.PNG" alt="page">
 
-> Calculadora Imc para pratica
+> Landing page ballerini bot
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Uso de HTMl
+- [x] Uso de HTML
 - [x] Uso de CSS
-- [x] Uso de JavaScript
+
 
 
 ## 🤝 Colaboradores
